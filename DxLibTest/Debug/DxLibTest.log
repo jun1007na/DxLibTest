@@ -1,0 +1,14 @@
+﻿2015/03/14 10:45:38 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\Junya Nakamura\documents\visual studio 2013\Projects\DxLibTest\DxLibTest\DxLibTest.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DrawPixel.cpp
+         DrawPixel.cpp
+     1>c:\users\junya nakamura\documents\visual studio 2013\projects\dxlibtest\dxlibtest\drawpixel.cpp(93): warning C4804: '>=' : 演算中の 'bool' 型の使用方法が安全ではありません
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Junya Nakamura\documents\visual studio 2013\Projects\DxLibTest\Debug\DxLibTest.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Junya Nakamura\documents\visual studio 2013\Projects\DxLibTest\Debug\DxLibTest.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Junya Nakamura\documents\visual studio 2013\Projects\DxLibTest\Debug\DxLibTest.lib" /MACHINE:X86 Debug\DrawPixel.obj
+         DxLibTest.vcxproj -> C:\Users\Junya Nakamura\documents\visual studio 2013\Projects\DxLibTest\Debug\DxLibTest.exe
+     1>プロジェクト "C:\Users\Junya Nakamura\documents\visual studio 2013\Projects\DxLibTest\DxLibTest\DxLibTest.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.42
